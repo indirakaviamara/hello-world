@@ -12,7 +12,6 @@ AI Automation Specialist focused on helping businesses eliminate repetitive work
 
 ## Tech Stack
 - n8n
-- MindStudio
 - JavaScript
 - JSON
 - Claude
